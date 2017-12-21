@@ -1,0 +1,9 @@
+# Mac
+.DS_Store
+
+# General
+log/
+*.log
+
+# Vagrant
+.vagrant/
