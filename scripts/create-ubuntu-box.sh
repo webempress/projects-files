@@ -2,7 +2,7 @@
 
 # Before running this script: check VB & vagrant for updates.
 # to check vagrant version: vagrant --version
-
+# test
 # make the directory for the new vagrant box
 # assumes that the ~/projects directory exists
 cd ~/projects
